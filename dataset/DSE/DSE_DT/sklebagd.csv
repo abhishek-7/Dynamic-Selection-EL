@@ -10,7 +10,7 @@ noc,cbo,rfc,npm,bug,Voting_Prediction,Voting_Pred_Prob,RandomForest_Prediction,R
 0,4,18,5,True,False,0.4388797685190488,False,0.0,False,0.10000000000000002,AdaBoost,AdaBoost,False,0.10000000000000002
 0,5,40,5,True,True,0.8932449820572875,True,1.0,True,0.9999999950329462,AdaBoost,AdaBoost,True,0.9999999950329462
 0,0,31,3,False,True,0.9384962287621086,False,0.5,False,0.5,AdaBoost,AdaBoost,False,0.5
-0,5,13,6,False,False,0.47762792026045203,True,0.8,False,0.5,AdaBoost,AdaBoost,False,0.5
+0,5,13,6,False,False,0.477627920260452,True,0.8,False,0.5,AdaBoost,AdaBoost,False,0.5
 0,16,92,59,True,True,0.9899498870942548,False,0.5,True,0.7,AdaBoost,AdaBoost,True,0.7
 1,5,28,8,False,False,0.4707277714751961,False,0.5,False,0.4000000000000001,AdaBoost,AdaBoost,False,0.4000000000000001
 0,7,49,36,True,True,0.8810575112378998,True,1.0,True,0.8999999999999999,AdaBoost,AdaBoost,True,0.8999999999999999

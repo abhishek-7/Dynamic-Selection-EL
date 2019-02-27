@@ -1,5 +1,5 @@
 moa,bug,Voting_Prediction,Voting_Pred_Prob,RandomForest_Prediction,RandomForest_Pred_Prob,AdaBoost_Prediction,AdaBoost_Pred_Prob,selectedEnsemble,PredictedEnsemble,DSE_Prediction,DSE_Pred_Prob
-2,False,True,0.5079537981725163,True,0.8021428571428573,True,0.5082898362234385,RandomForest,AdaBoost,True,0.6552163466831479
+2,False,True,0.5079537981725163,True,0.8021428571428573,True,0.5082898362234385,RandomForest,RandomForest,True,0.8021428571428573
 0,False,False,0.15609437306745785,False,0.1195998445998446,False,0.4877667694557392,RandomForest,RandomForest,False,0.1195998445998446
 1,True,True,0.5034911375493415,True,0.828989898989899,True,0.997859736923998,RandomForest,RandomForest,True,0.828989898989899
 0,False,False,0.15609437306745785,False,0.10061044294393552,False,0.4887323194871476,RandomForest,RandomForest,False,0.10061044294393552

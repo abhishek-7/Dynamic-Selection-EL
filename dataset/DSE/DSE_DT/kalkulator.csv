@@ -6,7 +6,7 @@ dit,amc,bug,Voting_Prediction,Voting_Pred_Prob,RandomForest_Prediction,RandomFor
 4,129.0,True,True,0.9520303892023332,True,1.0,True,0.9228342635602038,RandomForest,RandomForest,True,1.0
 1,45.2,False,False,0.15087043599127245,False,0.0,False,0.11106609545026196,RandomForest,RandomForest,False,0.0
 2,84.42857143,True,True,0.531774590953432,False,0.5,False,0.289884165471557,Voting,Voting,True,0.531774590953432
-4,21.0,False,False,0.3100095759675203,False,0.375,False,0.48969167653078793,RandomForest,RandomForest,False,0.375
+4,21.0,False,False,0.3100095759675203,False,0.375,False,0.4896916765307879,RandomForest,RandomForest,False,0.375
 2,12.71428571,False,False,0.057770029716564274,False,0.0,False,0.05995875904933105,RandomForest,RandomForest,False,0.0
 4,66.0,True,False,0.4479226756591347,False,0.1,False,0.3832562258321927,RandomForest,RandomForest,False,0.1
 3,43.33333333,False,False,0.19422527353760505,False,0.0,False,0.02851462846634724,RandomForest,RandomForest,False,0.0

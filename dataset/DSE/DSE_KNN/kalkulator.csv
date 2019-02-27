@@ -1,6 +1,6 @@
 dit,amc,bug,Voting_Prediction,Voting_Pred_Prob,RandomForest_Prediction,RandomForest_Pred_Prob,AdaBoost_Prediction,AdaBoost_Pred_Prob,selectedEnsemble,PredictedEnsemble,DSE_Prediction,DSE_Pred_Prob
 1,2.12962963,False,False,0.0453743271789773,False,0.0,False,0.0402043594724998,RandomForest,RandomForest,False,0.0
-4,105.5,True,True,0.9060002187743535,True,0.9,True,0.9483498955932568,RandomForest,RandomForest,True,0.9030001093871768
+4,105.5,True,True,0.9060002187743535,True,0.9,True,0.9483498955932568,RandomForest,Voting,True,0.904000145849569
 4,41.0,False,False,0.27963572010213106,False,0.1,False,0.3788332874074671,RandomForest,RandomForest,False,0.1
 2,6.5,False,False,0.04888610149082693,False,0.0,False,0.06648735400950663,RandomForest,RandomForest,False,0.0
 4,129.0,True,True,0.9520303892023332,True,1.0,True,0.9228342635602038,RandomForest,RandomForest,True,1.0

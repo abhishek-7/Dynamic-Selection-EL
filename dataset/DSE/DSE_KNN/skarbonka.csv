@@ -1,7 +1,7 @@
 dit,rfc,lcom3,bug,Voting_Prediction,Voting_Pred_Prob,RandomForest_Prediction,RandomForest_Pred_Prob,AdaBoost_Prediction,AdaBoost_Pred_Prob,selectedEnsemble,PredictedEnsemble,DSE_Prediction,DSE_Pred_Prob
 1,10,2.0,False,False,0.016883558193547674,False,0.0,False,2.2204460492503185e-16,RandomForest,RandomForest,False,0.0
 1,1,2.0,False,False,0.015597676649843118,False,0.0,False,2.2204460492503185e-16,RandomForest,RandomForest,False,0.0
-5,67,0.7613636359999999,False,False,0.4735556268740357,False,0.1,False,1.4753622091580912e-05,RandomForest,RandomForest,False,0.1
+5,67,0.7613636359999999,False,False,0.4735556268740357,False,0.1,False,1.4753622091580912e-05,RandomForest,RandomForest,False,0.20673017910686736
 1,2,2.0,False,False,0.015734485104173992,False,0.0,False,2.2204460492503185e-16,RandomForest,RandomForest,False,0.0
 1,22,0.833333333,False,False,0.13257914070584667,False,0.1,False,2.2204460492503185e-16,RandomForest,RandomForest,False,0.1
 1,2,2.0,False,False,0.015734485104188463,False,0.0,False,2.2204460492503185e-16,RandomForest,RandomForest,False,0.0

@@ -1,5 +1,5 @@
 wmc,rfc,loc,cam,amc,bug,Voting_Prediction,Voting_Pred_Prob,RandomForest_Prediction,RandomForest_Pred_Prob,AdaBoost_Prediction,AdaBoost_Pred_Prob,selectedEnsemble,PredictedEnsemble,DSE_Prediction,DSE_Pred_Prob
-3,26,230,0.666666667,75.66666667,False,False,0.4264661336102564,True,0.7,True,0.60435607626104,Voting,Voting,False,0.4264661336102564
+3,26,230,0.666666667,75.66666667,False,False,0.4264661336102564,True,0.7,True,0.60435607626104,Voting,Voting,False,0.48576278116051763
 2,3,31,0.75,12.0,False,False,0.04725577070279857,False,0.0,False,7.450580541412699e-09,Voting,Voting,False,0.04725577070279857
 5,9,88,0.8,14.8,True,False,0.050073520397140636,False,0.0,False,0.2,Voting,Voting,False,0.050073520397140636
 6,13,225,0.4166666670000001,36.16666667,False,False,0.3152724909916711,False,0.0,False,4.0625222793104036e-07,Voting,Voting,False,0.3152724909916711
